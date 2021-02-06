@@ -1,0 +1,11 @@
+.song-container{
+    //.........container properties
+    width: 100%;
+    height: 60vh;
+
+    //.........display properties
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
